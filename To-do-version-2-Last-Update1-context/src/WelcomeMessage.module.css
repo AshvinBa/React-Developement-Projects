@@ -1,0 +1,11 @@
+.message
+{
+    font-size: 25px;
+    width: 50%;
+    font-style: italic;
+    font-weight: 500;
+    box-shadow: 2px 2px 2px 2px gray;
+    color: gray;
+    background-color: black;
+    border-radius: 55px;
+}

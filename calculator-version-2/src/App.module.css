@@ -1,0 +1,12 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.calculator{
+    border: 0.2px solid rgba(90, 90, 90);
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px;
+}
+

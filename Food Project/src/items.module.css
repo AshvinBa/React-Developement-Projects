@@ -1,0 +1,22 @@
+.button{
+    float: right;
+    background-color: aqua;
+}
+
+.kg-coding
+{
+    width: 90%;
+    list-style-type: none;
+    padding: 5px;
+    border: 0.2px solid burlywood;
+    display: wrap;
+}
+
+.kg-span
+{
+    color: rgb(116, 167, 193);
+    font-weight: 800;
+    font-size: 30px;
+    font-family: sans-serif;
+    
+}
